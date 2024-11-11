@@ -268,6 +268,13 @@ body {
         width: auto;
     }
 
+    .venue-box {
+        background-position: center center; 
+        background-size: cover; /* Ensure it covers the entire area without distortion */
+        width: 100%; /* Adjust width for responsiveness */
+        height: 20vh; /* Adjust height as needed */
+    }
+
     .venue-text {
         width: 100%;
         padding: 20px;
