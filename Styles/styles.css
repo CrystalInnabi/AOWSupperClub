@@ -244,6 +244,20 @@ body {
         background-attachment: scroll;
     }
 
+    .main-image p {
+        width: 80%; 
+        margin: 0 auto;
+        margin-top: 20px; 
+        text-align: center; 
+    }
+
+    .main-image span {
+        display: inline-block;
+        text-align: center;
+        width: 100%; 
+        font-size: 1.8em; 
+    }
+
     .venue {
         flex-direction: column;
     }
