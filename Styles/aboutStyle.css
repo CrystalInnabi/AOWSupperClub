@@ -46,6 +46,7 @@ p {
     justify-content: center;
     text-align: center;
     margin-top: auto;
+    padding: 10px;
     border-top: 2px solid #333;
    
     font-family: 'Popins', serif;
